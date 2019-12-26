@@ -1,4 +1,5 @@
 # Simple TODO app with authentication
+## (REACT REDUX REDUX-SAGA) - (EXPRESS, MONGODB)
 
 Todo app use [express-mongodb-rest-api-boilerplate](https://github.com/watscho/express-mongodb-rest-api-boilerplate)
 
