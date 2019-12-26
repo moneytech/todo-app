@@ -1,6 +1,7 @@
 # Simple TODO APP
 
-Todo app which use that [REST-API]("https://github.com/watscho/express-mongodb-rest-api-boilerplate")
+Todo app use [express-mongodb-rest-api-boilerplate](https://github.com/watscho/express-mongodb-rest-api-boilerplate)
+
 
 Api:
 
