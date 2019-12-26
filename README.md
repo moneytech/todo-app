@@ -1,4 +1,4 @@
-# Simple TODO APP
+# Simple TODO app with authentication
 
 Todo app use [express-mongodb-rest-api-boilerplate](https://github.com/watscho/express-mongodb-rest-api-boilerplate)
 
